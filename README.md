@@ -1,6 +1,6 @@
 # ASL_539_Project
 
-Repository for ECE/CS 539 at UW-Madison's final project.
+Repository for ECE/CS 539 at UW-Madison's final project on ASL sign language detection and classification.
 
 The repository contains code for ASL sign language detection and classification. 
 
