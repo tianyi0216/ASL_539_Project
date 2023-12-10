@@ -15,3 +15,5 @@ E.g you can install with `pip3 install torch torchvision torchaudio --index-url 
 The dataset is in `data` directory, with the train, test, validation split created in the subdirectories.
 
 The analysis, including the whole workflow from data processing, training, evaluation, and the live demo, is in `asl_detection_1.ipynb` file. Just run through each cell for a whole workflow.
+
+The analysis used in the project report running on colab can be found in the `colab` direcotry. Where `asl_detection_1.ipynb` is the training and evaluation for Faster R-CNN with ResNet50 pretrained backbone. Where as `copy_of_asl_detection_1.ipynb` is the training and evaluation for Faster R-CNN with Mobilenet V2 not pretrained backbone.
