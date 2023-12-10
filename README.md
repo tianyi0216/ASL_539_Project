@@ -23,4 +23,5 @@ The analysis used in the project report running on colab can be found in the `co
 We provide the two trained model here. Cretae a `models` directory and put the trained model in there for inference.
 
 Faster R-CNN with pretrained ResNet50 backbone: https://drive.google.com/file/d/12FsZ8kMy07ulYpl8IG8l2yicSz7nouCt/view?usp=sharing
+
 Faster R-CNN with Mobilenet V2 backbone: https://drive.google.com/file/d/1iMNDi7Paik4X7_kbu94iXsfkIJ27NJ8M/view?usp=sharing
