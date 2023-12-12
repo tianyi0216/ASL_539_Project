@@ -8,9 +8,11 @@ Dataset: https://public.roboflow.com/object-detection/american-sign-language-let
 
 ## How to run:
 
-First make sure you have PyTorch installed. Any version would be fine. See https://pytorch.org/
+First make sure you have PyTorch (preferably with cuda) installed. Any version should be fine. I developed my code based on 2.1.0 and 2.1.1 and both worked. See https://pytorch.org/
 
-E.g you can install with `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 `
+E.g you can install latest stable version with cuda 12.1 with `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 `
+
+Other packages used are pretty standard there aren't any special ones (e.g pandas, matplotlib, tqdm etc).
 
 The dataset is in `data` directory, with the train, test, validation split created in the subdirectories.
 
